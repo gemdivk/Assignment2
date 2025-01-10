@@ -136,8 +136,8 @@ Here are some screenshots showcasing the core features of the AI Model Marketpla
 ### Quick Start
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd AI-Model-Marketplace
+   git clone https://github.com/gemdivk/Assignment2.git
+   cd Assignment2
    ```
 2. Open `index.html` in a browser.
 3. Interact with the platform using MetaMask.
