@@ -1,7 +1,7 @@
 # AI Model Marketplace
 
 ## Objective
-We create a decentralized application (dApp) that allows users to list, purchase, and rate AI models. The core functionality is managed by a smart contract, while the frontend provides an intuitive interface for users to interact with the blockchain.
+We create a decentralized application (dApp) that allows users to list, purchase, and rate AI models. The core functionality is managed by a smart contract which is located on test server holesky??, while the frontend provides an intuitive interface for users to interact with the blockchain.
 
 ---
 
