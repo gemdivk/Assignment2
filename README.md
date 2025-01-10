@@ -122,7 +122,9 @@ Here are some screenshots showcasing the core features of the AI Model Marketpla
 ![Purchase Model](/screenshots/screen5.jpg)
 
 ### Withdraw Funds
+![Withdraw Funds](/screenshots/screen7.jpg)
 ![Withdraw Funds](/screenshots/screen6.jpg)
+
 
 ---
 
